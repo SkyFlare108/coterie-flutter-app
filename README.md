@@ -1,4 +1,4 @@
-# Neighborhood Task Helper 🏡
+# 🏡 Neighborhood Task Helper 
 
 Welcome to the **Neighborhood Task Helper**, an application designed for community members to request help with chores and tasks related to home care. This app provides an organized and efficient way to keep track of tasks, ensuring that neighbors can easily request and offer help.
 
